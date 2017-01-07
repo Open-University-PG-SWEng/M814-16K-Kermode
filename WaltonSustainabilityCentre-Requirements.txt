@@ -6,3 +6,16 @@ Originator:
 Comments: [M814-ModuleChair] Copy this template below to add new requirements.
 
 
+REQ-ID:		REQ001
+Description:	Process a credit or debit card payment from a customer.
+Type:
+Rationale:	A payment is required from a customer in order to be booked on a workshop.
+Originator:	Booking agents/receptionists (Sandra/James) overseen by Karen
+
+
+REQ-ID:		REQ002
+Description:	Send notification e-mail to customer.
+Type:
+Rationale:	The customer requires an acknowledgement e-mail upon confirmation of a successful payment and booking.
+Originator:	Booking agents/receptionists (Sandra/James) overseen by Karen
+
