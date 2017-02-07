@@ -19,3 +19,14 @@ Type:
 Rationale:	The customer requires an acknowledgement e-mail upon confirmation of a successful payment and booking.
 Originator:	Booking agents/receptionists (Sandra/James) overseen by Karen
 
+REQ-ID:		REQ003
+Description:	The product shall maintain records of workshops that have been run, including date, time, coordinator, and cost.
+Type:
+Rationale:	To be able to pay workshop coordinators the correct amount for workshops they have run.
+Originator:	Marion Harkin – Director
+
+REQ-ID:		REQ004
+Description:	The product shall be able to make online bank transfers.
+Type:
+Rationale:	To ensure that workshop coordinators can be paid.
+Originator:	Marion Harkin – Director
