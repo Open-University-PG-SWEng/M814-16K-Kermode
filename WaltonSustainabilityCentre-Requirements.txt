@@ -30,3 +30,15 @@ Description:	The product shall be able to make online bank transfers.
 Type:
 Rationale:	To ensure that workshop coordinators can be paid.
 Originator:	Marion Harkin – Director
+
+REQ-ID:		REQ005
+Description:	Automatically produce management reports on a daily and weekly basis.
+Type:
+Rationale:	To enable comparison of current performance against both previous and planned performance.
+Originator:	Justin Cadogan and Marion Harkin
+
+REQ-ID:		REQ006
+Description:	Add, update and access membership information for individuals.
+Type:
+Rationale:	To provide necessary member information required for booking workshops and knowing whether discount should be applied.
+Originator:	Booking agents/receptionists (Sandra/James)
