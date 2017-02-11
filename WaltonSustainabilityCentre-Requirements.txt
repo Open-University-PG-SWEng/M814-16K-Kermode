@@ -42,3 +42,15 @@ Description:	Add, update and access membership information for individuals.
 Type:
 Rationale:	To provide necessary member information required for booking workshops and knowing whether discount should be applied.
 Originator:	Booking agents/receptionists (Sandra/James)
+
+REQ-ID:		REQ007
+Description:	The product shall keep information about the maximum number of possible participants in a workshop/course. 
+Type:
+Rationale:	To be able to determine if there are available places for a new booking.
+Originator:	Booking agents/receptionists (Sandra/James)
+
+REQ-ID:		REQ008
+Description:	The product shall be able to charge a credit/debit card with a defined amount.
+Type:
+Rationale:	To be able to carry out reserveration payments.
+Originator:	Booking agents/receptionists (Sandra/James)
