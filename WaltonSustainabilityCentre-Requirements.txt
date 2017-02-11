@@ -53,4 +53,16 @@ REQ-ID:		REQ008
 Description:	The product shall keep record of a booking associated with a given workshop/course and participant.
 Type:
 Rationale:	To be able to determince which and how many participants are registered in a workshop/course. 
-Originator:	Booking agents/receptionists (Sandra/James)
+Originator:	Booking agents/receptionists (Sandra/James) 
+
+REQ-ID		REQ009
+Description:	Prepare a report of EVS volunteers' progress.
+Type:			Functional.
+Rationale:		The centre needs to be able to track the progress of EVS volunteers.
+Originator:	Marion Harkin - Director.
+
+REQ-ID		REQ010
+Description:	Submit a periodic progress report to EVS.
+Type:			Functional.
+Rationale:		EVS must be kept informed of the progress of their volunteers.
+Originator:	Marion Harkin - Director. 
