@@ -50,7 +50,7 @@ Rationale:	To be able to determine if there are available places for a new booki
 Originator:	Booking agents/receptionists (Sandra/James)
 
 REQ-ID:		REQ008
-Description:	The product shall be able to charge a credit/debit card with a defined amount.
+Description:	The product shall keep record of a booking associated with a given workshop/course and participant.
 Type:
-Rationale:	To be able to carry out reserveration payments.
+Rationale:	To be able to determince which and how many participants are registered in a workshop/course. 
 Originator:	Booking agents/receptionists (Sandra/James)
