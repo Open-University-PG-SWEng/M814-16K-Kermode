@@ -90,3 +90,16 @@ Description:	The product shall produce a confirmation.
 Type:		Functional.
 Rationale:	To let the member know they have a reserved place on the course.
 Originator:	Management.
+
+REQ-ID:		REQ015
+Description:	The product shall provide a list of available equipment on a particular date.
+Type:		Functional
+Rationale:	The facilitator can only make reservations for equipment that is available on a particular date.
+Originator:	Karen Black
+
+REQ-ID:		REQ016
+Description:	The product shall record reservations for workshop or course equipment.
+Type:		Functional
+Rationale:	An unambiguous reservation of the equipment ensures its availability in the workshop or course. 
+Originator:	Karen Black
+
