@@ -103,3 +103,16 @@ Type:		Functional
 Rationale:	An unambiguous reservation of the equipment ensures its availability in the workshop or course. 
 Originator:	Karen Black
 
+REQ-ID:		REQ017
+Description:	The product shall record a supply order.
+Type:		Functional.
+Rationale:	Ensure that consumable supply orders are recorded mitigating order ommissions.
+Originator:	C.Berry (Source: Karen Black, Administrator)
+
+REQ-ID:		REQ018
+Description:	The product shall record receipt of a supply delivery.
+Type:		Functional.
+Rationale:	Provide a means of recording receipt of supply delivery in order to ensure that billing from suppliers is accurate.
+Originator:	C.Berry (Source: Marion Harker, Director)
+
+
