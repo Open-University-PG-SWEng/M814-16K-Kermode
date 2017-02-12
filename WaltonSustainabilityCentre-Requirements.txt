@@ -104,9 +104,9 @@ Rationale:	An unambiguous reservation of the equipment ensures its availability 
 Originator:	Karen Black
 
 REQ-ID:		REQ017
-Description:	The product shall record a supply order.
+Description:	The product shall generate a supply order in response to a facilitators request.
 Type:		Functional.
-Rationale:	Ensure that consumable supply orders are recorded mitigating order ommissions.
+Rationale:	Ensure that consumable supply orders are actioned on receipt of a facilitators request mitigating order ommissions or insufficient time for orders to arrive.
 Originator:	C.Berry (Source: Karen Black, Administrator)
 
 REQ-ID:		REQ018
