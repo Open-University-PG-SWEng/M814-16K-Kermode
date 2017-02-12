@@ -66,3 +66,16 @@ Description:	Submit a periodic progress report to EVS.
 Type:			Functional.
 Rationale:		EVS must be kept informed of the progress of their volunteers.
 Originator:	Marion Harkin - Director. 
+
+REQ-ID		REQ011
+Description:	The system should allow for a workshop to be rescheduled
+Type:		Functional.
+Rationale:	Facilitators may need to reschedule workshops they’re running
+Originator:	Karen
+
+REQ-ID		REQ012
+Description:	The system should notify attendees and centre staff of a workshop schedule change
+Type:		Functional.
+Rationale:	Attendees need to be made are of changes to workshops they are attending.  Centre staff will need to be aware of the new schedule as they will need to prepare facilities for the workshop
+Originator:	Karen 
+
