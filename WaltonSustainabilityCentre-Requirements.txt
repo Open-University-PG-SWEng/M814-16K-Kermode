@@ -79,3 +79,14 @@ Type:		Functional.
 Rationale:	Attendees need to be made are of changes to workshops they are attending.  Centre staff will need to be aware of the new schedule as they will need to prepare facilities for the workshop
 Originator:	Karen 
 
+REQ-ID:		REQ013
+Description:	The product shall accept a reservation request.
+Type:		Functional.
+Rationale:	To allow members the choice to attend a course.
+Originator:	Member.
+
+REQ-ID:		REQ014
+Description:	The product shall produce a confirmation.
+Type:		Functional.
+Rationale:	To let the member know they have a reserved place on the course.
+Originator:	Management.
