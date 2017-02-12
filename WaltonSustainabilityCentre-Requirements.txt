@@ -115,4 +115,17 @@ Type:		Functional.
 Rationale:	Provide a means of recording receipt of supply delivery in order to ensure that billing from suppliers is accurate.
 Originator:	C.Berry (Source: Marion Harker, Director)
 
+REQ-ID:		REQ019
+Description:	The product shall record roles for users.
+Type:		Functional
+Rationale:	Users can have one or more roles, with system functionality, as well as perks tied to roles.
+Originator:	Justin Cadogan
+
+REQ-ID:		REQ020
+Description:	The product shall export data to the accounting system.
+Type:		Functional
+Rationale:	The stakeholder has indicated that an off-the-shelf accounting system will be used. 
+Originator:	Justin Cadogan
+
+
 
