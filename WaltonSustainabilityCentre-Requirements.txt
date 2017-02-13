@@ -1,4 +1,4 @@
-REQ-ID:
+﻿REQ-ID:
 Description:
 Type:
 Rationale:
@@ -97,12 +97,6 @@ Type:		Functional
 Rationale:	The facilitator can only make reservations for equipment that is available on a particular date.
 Originator:	Karen Black
 
-REQ-ID:		REQ016
-Description:	The product shall record reservations for workshop or course equipment.
-Type:		Functional
-Rationale:	An unambiguous reservation of the equipment ensures its availability in the workshop or course.
-Originator:	Karen Black
-
 REQ-ID:		REQ017
 Description:	The product shall generate a supply order in response to a facilitators request.
 Type:		Functional.
@@ -133,22 +127,10 @@ Type:		Functional
 Rationale:	Supplies are being ordered to meet a need. Orders for supplies may still be open/unfulfilled when checking for the subsequent need. Record of open orders will help prevent unnecessary orders.
 Originator:	Marion Harkin (Director).
 
-REQ-ID:		REQ022
-Description:	The product must provide a means of checking (in) deliveries against ordered supplies.
-Type:		Functional
-Rationale:	Deliveries are checked to ensure the ordered supplies meet the requested order. This confirmation of delivery is used to 'check the bill when it arrives' as part of the payment approval process.
-Originator:	Marion Harkin (Director).
-
 REQ-ID:		REQ023
 Description:	The product should allow for handling of invoices
 Type:		Functional
 Rationale:	At present no cohesion with how invoices are received and handled, all seperate systems. No quick way to check workshop co-ordinator or lecturer agreed fees, terms or against scheduled hours for received invoices or knowing if they're settled or not.
-Originator:	Marion Harkin
-
-REQ-ID:		REQ024
-Description:	The product should allow for handling of payments of invoices
-Type:		Functional
-Rationale:	At present no automation from invoice received to payments to workshop co-ordinators or lecturers, at present several separate systems and several manual steps. Could be handled as part of the invoicing to make it accessible to privileged staff.
 Originator:	Marion Harkin
 
 REQ-ID:		REQ025
