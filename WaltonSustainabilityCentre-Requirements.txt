@@ -12,7 +12,6 @@ Type:
 Rationale:	A payment is required from a customer in order to be booked on a workshop.
 Originator:	Booking agents/receptionists (Sandra/James) overseen by Karen
 
-
 REQ-ID:		REQ002
 Description:	Send notification e-mail to customer.
 Type:
@@ -49,12 +48,6 @@ Type:
 Rationale:	To be able to determine if there are available places for a new booking.
 Originator:	Booking agents/receptionists (Sandra/James)
 
-REQ-ID:		REQ008
-Description:	The product shall keep record of a booking associated with a given workshop/course and participant.
-Type:
-Rationale:	To be able to determince which and how many participants are registered in a workshop/course. 
-Originator:	Booking agents/receptionists (Sandra/James) 
-
 REQ-ID		REQ009
 Description:	Prepare a report of EVS volunteers' progress.
 Type:			Functional.
@@ -85,22 +78,10 @@ Type:		Functional.
 Rationale:	To allow members the choice to attend a course.
 Originator:	Member.
 
-REQ-ID:		REQ014
-Description:	The product shall produce a confirmation.
-Type:		Functional.
-Rationale:	To let the member know they have a reserved place on the course.
-Originator:	Management.
-
 REQ-ID:		REQ015
 Description:	The product shall provide a list of available equipment on a particular date.
 Type:		Functional
 Rationale:	The facilitator can only make reservations for equipment that is available on a particular date.
-Originator:	Karen Black
-
-REQ-ID:		REQ016
-Description:	The product shall record reservations for workshop or course equipment.
-Type:		Functional
-Rationale:	An unambiguous reservation of the equipment ensures its availability in the workshop or course. 
 Originator:	Karen Black
 
 REQ-ID:		REQ017
@@ -143,10 +124,4 @@ REQ-ID:		REQ023
 Description:	The product should allow for handling of invoices
 Type:		Functional
 Rationale:	At present no cohesion with how invoices are received and handled, all seperate systems. No quick way to check workshop co-ordinator or lecturer agreed fees, terms or against scheduled hours for received invoices or knowing if they're settled or not.
-Originator:	Marion Harkin
-
-REQ-ID:		REQ024
-Description:	The product should allow for handling of payments of invoices
-Type:		Functional
-Rationale:	At present no automation from invoice received to payments to workshop co-ordinators or lecturers, at present several separate systems and several manual steps. Could be handled as part of the invoicing to make it accessible to privileged staff.
 Originator:	Marion Harkin
