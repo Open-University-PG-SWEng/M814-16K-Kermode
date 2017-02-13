@@ -127,5 +127,15 @@ Type:		Functional
 Rationale:	The stakeholder has indicated that an off-the-shelf accounting system will be used. 
 Originator:	Justin Cadogan
 
+REQ-ID:		REQ021
+Description:	If an order of consumable supplies is made/placed then the product must record/have a means of recording these ordered supplies.
+Type:		Functional
+Rationale:	Supplies are being ordered to meet a need. Orders for supplies may still be open/unfulfilled when checking for the subsequent need. Record of open orders will help prevent unnecessary orders.
+Originator:	Marion Harkin (Director).
 
+REQ-ID:		REQ022
+Description:	The product must provide a means of checking (in) deliveries against ordered supplies.
+Type:		Functional
+Rationale:	Deliveries are checked to ensure the ordered supplies meet the requested order. This confirmation of delivery is used to 'check the bill when it arrives' as part of the payment approval process.
+Originator:	Marion Harkin (Director).
 
