@@ -162,3 +162,15 @@ Description:	The product should apply members 15% discount for activities automa
 Type:		Functional
 Rationale:	Avoid errors or missed discounts.
 Originator:	Justin
+
+REQ-ID:		REQ027
+Description:	The product must support an indication that the member is paying by direct debit.
+Type:		Functional
+Rationale:	The business encourages this commitment with respect to payment/billing.
+Originator:	Justin
+
+REQ-ID:		REQ028
+Description:	The product must recognise that a member is paying by direct debit and automatically give them a 5% discount
+Type:		Functional
+Rationale:	The business offers the member discount for direct debit payments.
+Originator:	Justin
