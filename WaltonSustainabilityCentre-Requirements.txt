@@ -25,12 +25,6 @@ Type:
 Rationale:	To be able to pay workshop coordinators the correct amount for workshops they have run.
 Originator:	Marion Harkin � Director
 
-REQ-ID:		REQ004
-Description:	The product shall be able to make online bank transfers.
-Type:
-Rationale:	To ensure that workshop coordinators can be paid.
-Originator:	Marion Harkin � Director
-
 REQ-ID:		REQ005
 Description:	Automatically produce management reports on a daily and weekly basis.
 Type:
@@ -52,7 +46,7 @@ Originator:	Booking agents/receptionists (Sandra/James)
 REQ-ID:		REQ008
 Description:	The product shall keep record of a booking associated with a given workshop/course and participant.
 Type:
-Rationale:	To be able to determince which and how many participants are registered in a workshop/course.
+Rationale:	To be able to determine which and how many participants are registered in a workshop/course.
 Originator:	Booking agents/receptionists (Sandra/James)
 
 REQ-ID		REQ009
@@ -133,12 +127,6 @@ Type:		Functional
 Rationale:	Supplies are being ordered to meet a need. Orders for supplies may still be open/unfulfilled when checking for the subsequent need. Record of open orders will help prevent unnecessary orders.
 Originator:	Marion Harkin (Director).
 
-REQ-ID:		REQ022
-Description:	The product must provide a means of checking (in) deliveries against ordered supplies.
-Type:		Functional
-Rationale:	Deliveries are checked to ensure the ordered supplies meet the requested order. This confirmation of delivery is used to 'check the bill when it arrives' as part of the payment approval process.
-Originator:	Marion Harkin (Director).
-
 REQ-ID:		REQ023
 Description:	The product should allow for handling of invoices
 Type:		Functional
@@ -150,12 +138,6 @@ Description:	The product should allow for handling of payments of invoices
 Type:		Functional
 Rationale:	At present no automation from invoice received to payments to workshop co-ordinators or lecturers, at present several separate systems and several manual steps. Could be handled as part of the invoicing to make it accessible to privileged staff.
 Originator:	Marion Harkin
-
-REQ-ID:		REQ025
-Description:	The product should allow for payments for bookings via debit and credit card
-Type:		Functional
-Rationale:	Both payment options should be available to users. Single source for tracking payments and bookings.
-Originator:	Marion
 
 REQ-ID:		REQ026
 Description:	The product should apply members 15% discount for activities automatically
