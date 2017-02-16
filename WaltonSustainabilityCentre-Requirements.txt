@@ -1,4 +1,4 @@
-REQ-ID:
+﻿REQ-ID:
 Description:
 Type:
 Rationale:
@@ -6,29 +6,10 @@ Originator:
 Comments: [M814-ModuleChair] Copy this template below to add new requirements.
 
 
-REQ-ID:		REQ001
-Description:	Process a credit or debit card payment from a customer.
-Type:
-Rationale:	A payment is required from a customer in order to be booked on a workshop.
-Originator:	Booking agents/receptionists (Sandra/James) overseen by Karen
-
-
-REQ-ID:		REQ002
-Description:	Send notification e-mail to customer.
-Type:
-Rationale:	The customer requires an acknowledgement e-mail upon confirmation of a successful payment and booking.
-Originator:	Booking agents/receptionists (Sandra/James) overseen by Karen
-
 REQ-ID:		REQ003
 Description:	The product shall maintain records of workshops that have been run, including date, time, coordinator, and cost.
 Type:
 Rationale:	To be able to pay workshop coordinators the correct amount for workshops they have run.
-Originator:	Marion Harkin � Director
-
-REQ-ID:		REQ004
-Description:	The product shall be able to make online bank transfers.
-Type:
-Rationale:	To ensure that workshop coordinators can be paid.
 Originator:	Marion Harkin � Director
 
 REQ-ID:		REQ005
@@ -57,14 +38,14 @@ Originator:	Booking agents/receptionists (Sandra/James)
 
 REQ-ID		REQ009
 Description:	Prepare a report of EVS volunteers' progress.
-Type:			Functional.
-Rationale:		The centre needs to be able to track the progress of EVS volunteers.
+Type:		Functional.
+Rationale:	The centre needs to be able to track the progress of EVS volunteers.
 Originator:	Marion Harkin - Director.
 
 REQ-ID		REQ010
 Description:	Submit a periodic progress report to EVS.
-Type:			Functional.
-Rationale:		EVS must be kept informed of the progress of their volunteers.
+Type:		Functional.
+Rationale:	EVS must be kept informed of the progress of their volunteers.
 Originator:	Marion Harkin - Director.
 
 REQ-ID		REQ011
@@ -98,7 +79,7 @@ Rationale:	The facilitator can only make reservations for equipment that is avai
 Originator:	Karen Black
 
 REQ-ID:		REQ016
-Description:	The product shall record reservations for workshop or course equipment.
+Description:	The product shall record equipment reservations for workshops/courses.
 Type:		Functional
 Rationale:	An unambiguous reservation of the equipment ensures its availability in the workshop or course.
 Originator:	Karen Black
@@ -108,12 +89,6 @@ Description:	The product shall generate a supply order in response to a facilita
 Type:		Functional.
 Rationale:	Ensure that consumable supply orders are actioned on receipt of a facilitators request mitigating order ommissions or insufficient time for orders to arrive.
 Originator:	C.Berry (Source: Karen Black, Administrator)
-
-REQ-ID:		REQ018
-Description:	The product shall record receipt of a supply delivery.
-Type:		Functional.
-Rationale:	Provide a means of recording receipt of supply delivery in order to ensure that billing from suppliers is accurate.
-Originator:	C.Berry (Source: Marion Harker, Director)
 
 REQ-ID:		REQ019
 Description:	The product shall record roles for users.
