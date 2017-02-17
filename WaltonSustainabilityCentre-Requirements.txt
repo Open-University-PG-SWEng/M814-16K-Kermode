@@ -1,4 +1,4 @@
-REQ-ID:
+﻿REQ-ID:
 Description:
 Type:
 Rationale:
@@ -6,7 +6,7 @@ Originator:
 Comments: [M814-ModuleChair] Copy this template below to add new requirements.
 
 
-REQ-ID:		REQ001
+REQ-ID:		REQ001 *
 Description:	Process a credit or debit card payment from a customer.
 Type:
 Rationale:	A payment is required from a customer in order to be booked on a workshop.
@@ -57,14 +57,14 @@ Originator:	Booking agents/receptionists (Sandra/James)
 
 REQ-ID		REQ009
 Description:	Prepare a report of EVS volunteers' progress.
-Type:			Functional.
-Rationale:		The centre needs to be able to track the progress of EVS volunteers.
+Type:		Functional.
+Rationale:	The centre needs to be able to track the progress of EVS volunteers.
 Originator:	Marion Harkin - Director.
 
 REQ-ID		REQ010
 Description:	Submit a periodic progress report to EVS.
-Type:			Functional.
-Rationale:		EVS must be kept informed of the progress of their volunteers.
+Type:		Functional.
+Rationale:	EVS must be kept informed of the progress of their volunteers.
 Originator:	Marion Harkin - Director.
 
 REQ-ID		REQ011
