@@ -16,13 +16,13 @@ REQ-ID:		REQ003
 Description:	The product shall maintain records of workshops that have been run, including date, time, coordinator, and cost.
 Type:		Functional
 Rationale:	To be able to pay workshop coordinators the correct amount for workshops they have run.
-Originator:	Marion Harkin � Director
+Originator:	Marion Harkin (Director)
 
 REQ-ID:		REQ004
 Description:	The product shall be able to make online bank transfers.
 Type:		Functional
 Rationale:	To ensure that workshop coordinators can be paid.
-Originator:	Marion Harkin � Director
+Originator:	Marion Harkin (Director)
 
 REQ-ID:		REQ005
 Description:	Automatically produce management reports on a daily and weekly basis.
@@ -45,7 +45,7 @@ Originator:	Booking agents/receptionists (Sandra/James)
 REQ-ID:		REQ008
 Description:	The product shall keep record of a workshop/course booking associated with a given participant.
 Type:		Functional
-Rationale:	To be able to determince which and how many participants are registered in a workshop/course.
+Rationale:	To be able to determine which and how many participants are registered in a workshop/course.
 Originator:	Booking agents/receptionists (Sandra/James)
 
 REQ-ID		REQ009
@@ -63,7 +63,7 @@ Originator:	Marion Harkin - Director.
 REQ-ID		REQ011
 Description:	The system should allow for a workshop to be rescheduled
 Type:		Functional.
-Rationale:	Facilitators may need to reschedule workshops they�re running
+Rationale:	Facilitators may need to reschedule workshops they are running
 Originator:	Karen
 
 REQ-ID		REQ012
