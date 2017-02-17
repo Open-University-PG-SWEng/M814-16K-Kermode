@@ -170,7 +170,7 @@ Rationale:	The business encourages this commitment with respect to payment/billi
 Originator:	Justin
 
 REQ-ID:		REQ028
-Description:	The product must recognise that a member is paying by direct debit and automatically give them a 5% discount
+Description:	The product must automatically give a 5% discount to members paying by direct debit.
 Type:		Functional
 Rationale:	The business offers the member discount for direct debit payments.
 Originator:	Justin
