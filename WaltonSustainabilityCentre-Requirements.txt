@@ -8,74 +8,74 @@ Comments: [M814-ModuleChair] Copy this template below to add new requirements.
 
 REQ-ID:		REQ001
 Description:	Process a credit or debit card payment from a customer.
-Type:
+Type:		Functional
 Rationale:	A payment is required from a customer in order to be booked on a workshop.
 Originator:	Booking agents/receptionists (Sandra/James) overseen by Karen
 
 
 REQ-ID:		REQ002
 Description:	Send notification e-mail to customer.
-Type:
+Type:		Functional
 Rationale:	The customer requires an acknowledgement e-mail upon confirmation of a successful payment and booking.
 Originator:	Booking agents/receptionists (Sandra/James) overseen by Karen
 
 REQ-ID:		REQ003
 Description:	The product shall maintain records of workshops that have been run, including date, time, coordinator, and cost.
-Type:
+Type:		Functional
 Rationale:	To be able to pay workshop coordinators the correct amount for workshops they have run.
 Originator:	Marion Harkin � Director
 
 REQ-ID:		REQ005
 Description:	Automatically produce management reports on a daily and weekly basis.
-Type:
+Type:		Functional
 Rationale:	To enable comparison of current performance against both previous and planned performance.
 Originator:	Justin Cadogan and Marion Harkin
 
 REQ-ID:		REQ006
 Description:	Add, update and access membership information for individuals.
-Type:
+Type:		Functional
 Rationale:	To provide necessary member information required for booking workshops and knowing whether discount should be applied.
 Originator:	Booking agents/receptionists (Sandra/James)
 
 REQ-ID:		REQ007
 Description:	The product shall keep information about the maximum number of possible participants in a workshop/course.
-Type:
+Type:		Functional
 Rationale:	To be able to determine if there are available places for a new booking.
 Originator:	Booking agents/receptionists (Sandra/James)
 
 REQ-ID:		REQ008
 Description:	The product shall keep record of a booking associated with a given workshop/course and participant.
-Type:
+Type:		Functional
 Rationale:	To be able to determine which and how many participants are registered in a workshop/course.
 Originator:	Booking agents/receptionists (Sandra/James)
 
 REQ-ID		REQ009
 Description:	Prepare a report of EVS volunteers' progress.
-Type:			Functional.
-Rationale:		The centre needs to be able to track the progress of EVS volunteers.
+Type:		Functional.
+Rationale:	The centre needs to be able to track the progress of EVS volunteers.
 Originator:	Marion Harkin - Director.
 
 REQ-ID		REQ010
 Description:	Submit a periodic progress report to EVS.
-Type:			Functional.
-Rationale:		EVS must be kept informed of the progress of their volunteers.
+Type:		Functional
+Rationale:	EVS must be kept informed of the progress of their volunteers.
 Originator:	Marion Harkin - Director.
 
 REQ-ID		REQ011
 Description:	The system should allow for a workshop to be rescheduled
-Type:		Functional.
+Type:		Functional
 Rationale:	Facilitators may need to reschedule workshops they�re running
 Originator:	Karen
 
 REQ-ID		REQ012
 Description:	The system should notify attendees and centre staff of a workshop schedule change
-Type:		Functional.
+Type:		Functional
 Rationale:	Attendees need to be made are of changes to workshops they are attending.  Centre staff will need to be aware of the new schedule as they will need to prepare facilities for the workshop
 Originator:	Karen
 
 REQ-ID:		REQ013
 Description:	The product shall accept a reservation request.
-Type:		Functional.
+Type:		Functional
 Rationale:	To allow members the choice to attend a course.
 Originator:	Member.
 
