@@ -13,11 +13,6 @@ Rationale:	A payment is required from a customer in order to be booked on a work
 Originator:	Booking agents/receptionists (Sandra/James) overseen by Karen
 
 
-REQ-ID:		REQ002
-Description:	Send notification e-mail to customer.
-Type:
-Rationale:	The customer requires an acknowledgement e-mail upon confirmation of a successful payment and booking.
-Originator:	Booking agents/receptionists (Sandra/James) overseen by Karen
 
 REQ-ID:		REQ003
 Description:	The product shall maintain records of workshops that have been run, including date, time, coordinator, and cost.
@@ -89,7 +84,7 @@ REQ-ID:		REQ014
 Description:	The product shall produce a confirmation.
 Type:		Functional.
 Rationale:	To let the member know they have a reserved place on the course.
-Originator:	Management.
+Originator:	Booking agents/receptionists (Sandra/James) overseen by Karen
 
 REQ-ID:		REQ015
 Description:	The product shall provide a list of available equipment on a particular date.
@@ -104,15 +99,15 @@ Rationale:	An unambiguous reservation of the equipment ensures its availability 
 Originator:	Karen Black
 
 REQ-ID:		REQ017
-Description:	The product shall generate a supply order in response to a facilitators request.
+Description:	The product shall generate an order of supplies in response to a facilitators request.
 Type:		Functional.
 Rationale:	Ensure that consumable supply orders are actioned on receipt of a facilitators request mitigating order ommissions or insufficient time for orders to arrive.
 Originator:	C.Berry (Source: Karen Black, Administrator)
 
 REQ-ID:		REQ018
-Description:	The product shall record receipt of a supply delivery.
+Description:	The product shall record receipt of delivered supplies.
 Type:		Functional.
-Rationale:	Provide a means of recording receipt of supply delivery in order to ensure that billing from suppliers is accurate.
+Rationale:	Provide a means of recording receipt of delivered supplies in order to ensure that billing from suppliers is accurate.
 Originator:	C.Berry (Source: Marion Harker, Director)
 
 REQ-ID:		REQ019
@@ -128,16 +123,12 @@ Rationale:	The stakeholder has indicated that an off-the-shelf accounting system
 Originator:	Justin Cadogan
 
 REQ-ID:		REQ021
-Description:	If an order of consumable supplies is made/placed then the product must record/have a means of recording these ordered supplies.
+Description:	If an order of consumable supplies is made/placed then the product must record/have a means of recording that these supplies have been ordered.
 Type:		Functional
 Rationale:	Supplies are being ordered to meet a need. Orders for supplies may still be open/unfulfilled when checking for the subsequent need. Record of open orders will help prevent unnecessary orders.
 Originator:	Marion Harkin (Director).
 
-REQ-ID:		REQ022
-Description:	The product must provide a means of checking (in) deliveries against ordered supplies.
-Type:		Functional
-Rationale:	Deliveries are checked to ensure the ordered supplies meet the requested order. This confirmation of delivery is used to 'check the bill when it arrives' as part of the payment approval process.
-Originator:	Marion Harkin (Director).
+
 
 REQ-ID:		REQ023
 Description:	The product should allow for handling of invoices
@@ -151,11 +142,7 @@ Type:		Functional
 Rationale:	At present no automation from invoice received to payments to workshop co-ordinators or lecturers, at present several separate systems and several manual steps. Could be handled as part of the invoicing to make it accessible to privileged staff.
 Originator:	Marion Harkin
 
-REQ-ID:		REQ025
-Description:	The product should allow for payments for bookings via debit and credit card
-Type:		Functional
-Rationale:	Both payment options should be available to users. Single source for tracking payments and bookings.
-Originator:	Marion
+
 
 REQ-ID:		REQ026
 Description:	The product should apply members 15% discount for activities automatically
