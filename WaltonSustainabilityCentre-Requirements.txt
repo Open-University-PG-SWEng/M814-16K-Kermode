@@ -4,93 +4,104 @@ Type:
 Rationale:
 Originator:
 Comments: [M814-ModuleChair] Copy this template below to add new requirements.
-		  [dalethion] # inf ront of a line represents a commented out line.
-
+		  [dalethion] # in front of a line represents a commented out line.
 
 REQ-ID:		REQ001
 Description:	Process a credit or debit card payment from a customer.
-Type:
+Type:		Functional
 Rationale:	A payment is required from a customer in order to be booked on a workshop.
 Originator:	Booking agents/receptionists (Sandra/James) overseen by Karen
+Comments:	[dalethion] Added requirement type.
+			[dalethion] Duplicate of REQ025.
 
-
-REQ-ID:		REQ002
-Description:	Send notification e-mail to customer.
-Type:
-Rationale:	The customer requires an acknowledgement e-mail upon confirmation of a successful payment and booking.
-Originator:	Booking agents/receptionists (Sandra/James) overseen by Karen
+# Removed as duplicate of REQ014.
+# REQ-ID:		REQ002
+# Description:	Send notification e-mail to customer.
+# Type:		Functional
+# Rationale:	The customer requires an acknowledgement e-mail upon confirmation of a successful payment and booking.
+# Originator:	Booking agents/receptionists (Sandra/James) overseen by Karen
+# Comments:	[dalethion] Added requirement type.
 
 REQ-ID:		REQ003
 Description:	The product shall maintain records of workshops that have been run, including date, time, coordinator, and cost.
-Type:
+Type:		Functional
 Rationale:	To be able to pay workshop coordinators the correct amount for workshops they have run.
 Originator:	Marion Harkin � Director
+Comments:	[dalethion] Added requirement type.
 
 REQ-ID:		REQ004
 Description:	The product shall be able to make online bank transfers.
-Type:
+Type:		Functional
 Rationale:	To ensure that workshop coordinators can be paid.
-Originator:	Marion Harkin � Director
+Originator:	Marion Harkin - Director
+Comments:	[dalethion] Added requirement type.
 
 REQ-ID:		REQ005
 Description:	Automatically produce management reports on a daily and weekly basis.
-Type:
+Type:		Functional
 Rationale:	To enable comparison of current performance against both previous and planned performance.
 Originator:	Justin Cadogan and Marion Harkin
+Comments:	[dalethion] Added requirement type.
 
 REQ-ID:		REQ006
 Description:	Add, update and access membership information for individuals.
-Type:
+Type:		Functional
 Rationale:	To provide necessary member information required for booking workshops and knowing whether discount should be applied.
 Originator:	Booking agents/receptionists (Sandra/James)
+Comments:	[dalethion] Added requirement type.
 
 REQ-ID:		REQ007
 Description:	The product shall keep information about the maximum number of possible participants in a workshop/course.
-Type:
+Type:		Functional
 Rationale:	To be able to determine if there are available places for a new booking.
 Originator:	Booking agents/receptionists (Sandra/James)
+Comments:	[dalethion] Added requirement type.
 
 REQ-ID:		REQ008
 Description:	The product shall keep record of a booking associated with a given workshop/course and participant.
-Type:
+Type:		Functional
 Rationale:	To be able to determince which and how many participants are registered in a workshop/course.
 Originator:	Booking agents/receptionists (Sandra/James)
+Comments:	[dalethion] Added requirement type.
 
 REQ-ID		REQ009
 Description:	Prepare a report of EVS volunteers' progress.
-Type:			Functional.
+Type:			Functional
 Rationale:		The centre needs to be able to track the progress of EVS volunteers.
 Originator:	Marion Harkin - Director.
 
 REQ-ID		REQ010
 Description:	Submit a periodic progress report to EVS.
-Type:			Functional.
+Type:			Functional
 Rationale:		EVS must be kept informed of the progress of their volunteers.
 Originator:	Marion Harkin - Director.
 
 REQ-ID		REQ011
-Description:	The system should allow for a workshop to be rescheduled
-Type:		Functional.
-Rationale:	Facilitators may need to reschedule workshops they�re running
+Description:	The system should allow for a workshop to be rescheduled.
+Type:		Functional
+Rationale:	Facilitators may need to reschedule workshops they�re running.
 Originator:	Karen
 
 REQ-ID		REQ012
-Description:	The system should notify attendees and centre staff of a workshop schedule change
-Type:		Functional.
-Rationale:	Attendees need to be made are of changes to workshops they are attending.  Centre staff will need to be aware of the new schedule as they will need to prepare facilities for the workshop
+Description:	The system should notify attendees and centre staff of a workshop schedule change.
+Type:		Functional
+Rationale:	Attendees need to be made are of changes to workshops they are attending.  Centre staff will need to be aware of the new schedule as they will need to prepare facilities for the workshop.
 Originator:	Karen
 
 REQ-ID:		REQ013
 Description:	The product shall accept a reservation request.
-Type:		Functional.
+Type:		Functional
 Rationale:	To allow members the choice to attend a course.
-Originator:	Member.
+Originator:	Member
 
 REQ-ID:		REQ014
-Description:	The product shall produce a confirmation.
-Type:		Functional.
-Rationale:	To let the member know they have a reserved place on the course.
-Originator:	Management.
+Description:	The product shall produce a workshop booking confirmation.
+Type:		Functional
+Rationale:	The customer requires confirmation of successful payment and reserved workshop placement.
+Originator:	Management
+Comments:	[dalethion] Duplicate of REQ002.
+			[dalethion] Added rationale of REQ002 and reworded it.
+			[dalethion] Reworded description.
 
 REQ-ID:		REQ015
 Description:	The product shall provide a list of available equipment on a particular date.
@@ -99,22 +110,24 @@ Rationale:	The facilitator can only make reservations for equipment that is avai
 Originator:	Karen Black
 
 REQ-ID:		REQ016
-Description:	The product shall record reservations for workshop or course equipment.
+Description:	The product shall record reservations for equipment used in workshops/courses.
 Type:		Functional
 Rationale:	An unambiguous reservation of the equipment ensures its availability in the workshop or course.
 Originator:	Karen Black
+Comments:	[dalethion] Reworded description to remove ambiguity.
 
 REQ-ID:		REQ017
 Description:	The product shall generate a supply order in response to a facilitators request.
-Type:		Functional.
+Type:		Functional
 Rationale:	Ensure that consumable supply orders are actioned on receipt of a facilitators request mitigating order ommissions or insufficient time for orders to arrive.
 Originator:	C.Berry (Source: Karen Black, Administrator)
 
 REQ-ID:		REQ018
 Description:	The product shall record receipt of a supply delivery.
-Type:		Functional.
+Type:		Functional
 Rationale:	Provide a means of recording receipt of supply delivery in order to ensure that billing from suppliers is accurate.
 Originator:	C.Berry (Source: Marion Harker, Director)
+Comments:	[dalethion] Duplicate of REQ022.
 
 REQ-ID:		REQ019
 Description:	The product shall record roles for users.
@@ -133,8 +146,9 @@ Description:	If an order of consumable supplies is made/placed then the product 
 Type:		Functional
 Rationale:	Supplies are being ordered to meet a need. Orders for supplies may still be open/unfulfilled when checking for the subsequent need. Record of open orders will help prevent unnecessary orders.
 Originator:	Marion Harkin (Director).
+Comments:	[dalethion] Possible duplicate of REQ017.
 
-# Removed as duplicate of REQ022.
+# Removed as duplicate of REQ018.
 # REQ-ID:		REQ022
 # Description:	The product must provide a means of checking (in) deliveries against ordered supplies.
 # Type:		Functional
@@ -142,25 +156,26 @@ Originator:	Marion Harkin (Director).
 # Originator:	Marion Harkin (Director).
 
 REQ-ID:		REQ023
-Description:	The product should allow for handling of invoices
+Description:	The product should allow for handling of invoices.
 Type:		Functional
-Rationale:	At present no cohesion with how invoices are received and handled, all seperate systems. No quick way to check workshop co-ordinator or lecturer agreed fees, terms or against scheduled hours for received invoices or knowing if they're settled or not.
+Rationale:	At present no cohesion with how invoices are received and handled, all separate systems. No quick way to check workshop co-ordinator or lecturer agreed fees, terms or against scheduled hours for received invoices or knowing if they're settled or not.
 Originator:	Marion Harkin
 
 REQ-ID:		REQ024
-Description:	The product should allow for handling of payments of invoices
+Description:	The product should allow for handling of payments of invoices.
 Type:		Functional
 Rationale:	At present no automation from invoice received to payments to workshop co-ordinators or lecturers, at present several separate systems and several manual steps. Could be handled as part of the invoicing to make it accessible to privileged staff.
 Originator:	Marion Harkin
 
-REQ-ID:		REQ025
-Description:	The product should allow for payments for bookings via debit and credit card
-Type:		Functional
-Rationale:	Both payment options should be available to users. Single source for tracking payments and bookings.
-Originator:	Marion
+# Removed as duplicate of REQ001.
+# REQ-ID:		REQ025
+# Description:	The product should allow for payments for bookings via debit and credit card
+# Type:		Functional
+# Rationale:	Both payment options should be available to users. Single source for tracking payments and bookings.
+# Originator:	Marion
 
 REQ-ID:		REQ026
-Description:	The product should apply members 15% discount for activities automatically
+Description:	The product should apply members 15% discount for activities automatically.
 Type:		Functional
 Rationale:	Avoid errors or missed discounts.
 Originator:	Justin
