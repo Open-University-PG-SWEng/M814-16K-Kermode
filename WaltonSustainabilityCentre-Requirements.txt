@@ -6,12 +6,6 @@ Originator:
 Comments: [M814-ModuleChair] Copy this template below to add new requirements.
 
 
-REQ-ID:		REQ001
-Description:	Process a credit or debit card payment from a customer.
-Type:
-Rationale:	A payment is required from a customer in order to be booked on a workshop.
-Originator:	Booking agents/receptionists (Sandra/James) overseen by Karen
-
 
 REQ-ID:		REQ002
 Description:	Send notification e-mail to customer.
@@ -25,11 +19,6 @@ Type:
 Rationale:	To be able to pay workshop coordinators the correct amount for workshops they have run.
 Originator:	Marion Harkin � Director
 
-REQ-ID:		REQ004
-Description:	The product shall be able to make online bank transfers.
-Type:
-Rationale:	To ensure that workshop coordinators can be paid.
-Originator:	Marion Harkin � Director
 
 REQ-ID:		REQ005
 Description:	Automatically produce management reports on a daily and weekly basis.
@@ -79,11 +68,6 @@ Type:		Functional.
 Rationale:	Attendees need to be made are of changes to workshops they are attending.  Centre staff will need to be aware of the new schedule as they will need to prepare facilities for the workshop
 Originator:	Karen
 
-REQ-ID:		REQ013
-Description:	The product shall accept a reservation request.
-Type:		Functional.
-Rationale:	To allow members the choice to attend a course.
-Originator:	Member.
 
 REQ-ID:		REQ014
 Description:	The product shall produce a confirmation.
@@ -133,11 +117,6 @@ Type:		Functional
 Rationale:	Supplies are being ordered to meet a need. Orders for supplies may still be open/unfulfilled when checking for the subsequent need. Record of open orders will help prevent unnecessary orders.
 Originator:	Marion Harkin (Director).
 
-REQ-ID:		REQ022
-Description:	The product must provide a means of checking (in) deliveries against ordered supplies.
-Type:		Functional
-Rationale:	Deliveries are checked to ensure the ordered supplies meet the requested order. This confirmation of delivery is used to 'check the bill when it arrives' as part of the payment approval process.
-Originator:	Marion Harkin (Director).
 
 REQ-ID:		REQ023
 Description:	The product should allow for handling of invoices
@@ -145,11 +124,6 @@ Type:		Functional
 Rationale:	At present no cohesion with how invoices are received and handled, all seperate systems. No quick way to check workshop co-ordinator or lecturer agreed fees, terms or against scheduled hours for received invoices or knowing if they're settled or not.
 Originator:	Marion Harkin
 
-REQ-ID:		REQ024
-Description:	The product should allow for handling of payments of invoices
-Type:		Functional
-Rationale:	At present no automation from invoice received to payments to workshop co-ordinators or lecturers, at present several separate systems and several manual steps. Could be handled as part of the invoicing to make it accessible to privileged staff.
-Originator:	Marion Harkin
 
 REQ-ID:		REQ025
 Description:	The product should allow for payments for bookings via debit and credit card
