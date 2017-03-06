@@ -1,0 +1,14 @@
+REQ-ID:		NFR001
+Description:	The user should receive a timely response from the system after initiating the
+		payment process.
+Type:		Non-functional.
+Rationale:	Users are naturally extremely anxious after entering payment details into a website and
+		awaiting a response. A quick response will avoid the user attempting to refresh their 
+		webpage, trying to initiate the payment a second time, or closing down the window 
+		completely (and abandoning the order).
+Fit Criterion:	A response from the payment gateway is received within a maximum 15 second window.
+Originator:	Jason Robson
+Comments: 	
+
+[M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
