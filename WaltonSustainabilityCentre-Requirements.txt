@@ -12,13 +12,6 @@ Type:		Functional
 Rationale:	A payment is required from a customer in order to be booked on a workshop.
 Originator:	Booking agents/receptionists (Sandra/James) overseen by Karen
 
-
-REQ-ID:		REQ002
-Description:	Send notification e-mail to customer.
-Type:		Functional
-Rationale:	The customer requires an acknowledgement e-mail upon confirmation of a successful payment and booking.
-Originator:	Booking agents/receptionists (Sandra/James) overseen by Karen
-
 REQ-ID:		REQ003
 Description:	The product shall maintain records of workshops that have been run, including date, time, coordinator, and cost.
 Type:		Functional
@@ -131,12 +124,6 @@ REQ-ID:		REQ023
 Description:	The product should allow for handling of invoices
 Type:		Functional
 Rationale:	At present no cohesion with how invoices are received and handled, all seperate systems. No quick way to check workshop co-ordinator or lecturer agreed fees, terms or against scheduled hours for received invoices or knowing if they're settled or not.
-Originator:	Marion Harkin
-
-REQ-ID:		REQ024
-Description:	The product should allow for handling of payments of invoices
-Type:		Functional
-Rationale:	At present no automation from invoice received to payments to workshop co-ordinators or lecturers, at present several separate systems and several manual steps. Could be handled as part of the invoicing to make it accessible to privileged staff.
 Originator:	Marion Harkin
 
 REQ-ID:		REQ026
