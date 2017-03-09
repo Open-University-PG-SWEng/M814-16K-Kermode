@@ -1,0 +1,10 @@
+REQ-ID: NFR002
+Description: The system must log that the workshop schedule has been changed for audit purposes
+Type: Security
+Rationale: It must be possible to trace who is changing the schedule of a workshop.  Otherwise, changes cannot be traced back to who modified it - which may not have been the facilitator.
+Fit Criterion: An audit entry is generated for every change to the workshop schedule indicating the following: who made the changed, the previous schedule, and the new schedule
+Originator: David Knowles
+Comments: 
+[M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+
