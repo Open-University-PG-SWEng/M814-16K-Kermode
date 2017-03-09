@@ -1,4 +1,4 @@
-﻿REQ-ID:
+REQ-ID:
 Description:
 Type:
 Rationale:
@@ -120,15 +120,6 @@ Type:		Functional
 Rationale:	At present no cohesion with how invoices are received and handled, all seperate systems. No quick way to check workshop co-ordinator or lecturer agreed fees, terms or against scheduled hours for received invoices or knowing if they're settled or not.
 Originator:	Marion Harkin
 
-<<<<<<< HEAD
-REQ-ID:		REQ025
-Description:	The product should allow for payments for bookings via debit and credit card
-Type:		Functional
-Rationale:	Both payment options should be available to users. Single source for tracking payments and bookings.
-Originator:	Marion
-
-=======
->>>>>>> B6239196-branch
 REQ-ID:		REQ026
 Description:	The product should apply members 15% discount for activities automatically
 Type:		Functional
