@@ -1,4 +1,4 @@
-REQ-ID:		NFR001
+﻿REQ-ID:		NFR001
 Description:	The user should receive a timely response from the system after initiating the
 		payment process.
 Type:		Non-functional (performance)
@@ -14,3 +14,5 @@ Comments:
 [JasonRobson] Updated the type to state it is related to system performance.
 
 [DK] I know 15 seconds seems like a long time, but what is the rationale for choosing a maximum of 15 seconds?  Maybe its worth also adding an additional constraint of the number of requests that must meet this criteria, so a certain percentage of those payments should be processed within the time limit.  It could be difficult otherwise as the system isn’t the payment provider, its reliant on a 3rd party.  
+
+[DW] I think for the fit criterion we should be looking at the response received by the user, since it may be that it is necessary tha system handles the payment provider response to present the user update. 
