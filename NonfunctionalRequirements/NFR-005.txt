@@ -1,0 +1,10 @@
+REQ-ID: NFR005
+Description: Making a workshop reservation should be an easy and fast process.
+Type: Usability and Humanity
+Rationale: Making Workshop reservations counts among the daily tasks undertaken by the receptionists and saving time is of critical importance and one of the main purposes of this system.
+Fit Criterion: 99% of users shall be able to complete a reservation within 3 minutes.
+Originator: Kleonikos Kyriakis
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+[KK] Based on REQ008. 
+The fit criterion has been set to 3 minutes as it includes searching and selecting a specific workspace, filling in the personal details of a participant and finalizing the booking. Typing skills plays a vital role here but this amount of time may be considered as adequate. The expected success rate has been adjusted to 99% to leave space for exceptional circumstances.

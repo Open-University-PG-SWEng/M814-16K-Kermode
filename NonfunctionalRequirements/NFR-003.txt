@@ -1,0 +1,16 @@
+REQ-ID: NFR003
+Description: E-mails should be sent to attendee's soon after a cancellation or amendment of workshops
+Type: Non-Functional (Performance)
+Rationale: Attendees will be frustrated if they are not notified within good time of changes or cancellations. A speedy update allows them to create another booking and plan accordingly, if they aren't notified within good time they may not try to re-book.
+Fit Criterion: All e-mails to attendees for changes and cancellations to bookings should be sent out within 1 hour.
+Originator: Daly Whyte	
+Comments: 
+[M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+[DW] I think this is an important NFR, it's very little use if it e-mails at 3am on batch if they have a workshop at 9am, it needs to be something that's sent out within good time on amendment or cancellation to allow for planning/re-booking.
+
+[JR] Maybe it could be worded slightly better in the description. I'm not sure it would ever be possible to guarantee RECEIPT of the e-mail, all we could 
+guarantee would be when an e-mail was SENT. The Fit Criterion states this, but perhaps the description could just say:
+'E-mails should be sent to attendee's soon after a cancellation...'
+
+[DW] Good point, it is not worded as well as it could be - updated.
