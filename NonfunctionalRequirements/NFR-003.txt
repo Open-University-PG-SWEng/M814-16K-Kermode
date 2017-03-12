@@ -10,4 +10,3 @@ Comments:
 [JR] Maybe it could be worded slightly better in the description. I'm not sure it would ever be possible to guarantee RECEIPT of the e-mail, all we could 
 guarantee would be when an e-mail was SENT. The Fit Criterion states this, but perhaps the description could just say:
 'E-mails should be sent to attendee's soon after a cancellation...'
-

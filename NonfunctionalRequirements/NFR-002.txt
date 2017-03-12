@@ -12,3 +12,5 @@ Comments:
 to maintain an audit log to allow user accountability and traceability represents a specific behaviour 
 of the system? I'm not sure it falls under the remit of 'security' ?
 
+[DK] According to MRP (page 264-265), audit trails come under the security aspect of non-functional requirements. Also, as it doesn’t alter the functional behaviour of the system, it would be considered non-functional.  There could well be a higher level requirement to maintain an audit trail, but how do you deem from that requirement what is actually going to audit? It provides a testable way of being able to determine that schedule changes are audited.
+

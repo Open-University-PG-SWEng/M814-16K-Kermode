@@ -12,3 +12,5 @@ Comments:
 
 [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [JasonRobson] Updated the type to state it is related to system performance.
+
+[DK] I know 15 seconds seems like a long time, but what is the rationale for choosing a maximum of 15 seconds?  Maybe its worth also adding an additional constraint of the number of requests that must meet this criteria, so a certain percentage of those payments should be processed within the time limit.  It could be difficult otherwise as the system isn’t the payment provider, its reliant on a 3rd party.  
