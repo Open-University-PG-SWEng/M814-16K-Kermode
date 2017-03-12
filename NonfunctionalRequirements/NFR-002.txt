@@ -8,3 +8,7 @@ Comments:
 [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
 
+[JR] I'd wondering whether this is actually a non-functional requirement ? I'd say the ability
+to maintain an audit log to allow user accountability and traceability represents a specific behaviour 
+of the system? I'm not sure it falls under the remit of 'security' ?
+
