@@ -1,0 +1,7 @@
+REQ-ID: NFR004
+Description: The product shall provide authentication and authorization mechanisms, implementing ACLs for user role management.
+Type: Non-functional - Security
+Rationale: User roles need to be enforced by an authorization mechanism because they potentially provide access to sensitive data (financial, personal) and membership benefits are tied to user roles.
+Fit Criterion: Users can only access functions and services assigned to their role.
+Originator: Andreea Grecu
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
