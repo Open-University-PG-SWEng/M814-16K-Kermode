@@ -1,0 +1,7 @@
+REQ-ID: NFR-008
+Description: The product shall allow the user to record the delivery of supplies quickly.
+Type: 12
+Rationale: It shall be quick as it should not take much longer than the old process of checking off ordered supplies in a spreadsheet.
+Fit Criterion: Across a statuistically representative range of delivery sizes an administrator shall be able to record delivered supplies in at most 50% more time than they could have if they had checked off ordered supplies in a spreadsheet.
+Originator: Benjamin Hobbs (Y0373855)
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
