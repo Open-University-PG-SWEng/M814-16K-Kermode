@@ -1,4 +1,4 @@
-﻿REQ-ID:
+REQ-ID:
 Description:
 Type:
 Rationale:
@@ -16,6 +16,12 @@ REQ-ID:		REQ003
 Description:	The product shall maintain records of workshops that have been run, including date, time, coordinator, and cost.
 Type:		Functional
 Rationale:	To be able to pay workshop coordinators the correct amount for workshops they have run.
+Originator:	Marion Harkin � Director
+
+REQ-ID:		REQ004
+Description:	The product shall be able to make online bank transfers.
+Type:
+Rationale:	To ensure that workshop coordinators can be paid.
 Originator:	Marion Harkin � Director
 
 REQ-ID:		REQ005
@@ -72,10 +78,22 @@ Type:		Functional
 Rationale:	To allow members the choice to attend a course.
 Originator:	Member.
 
+REQ-ID:		REQ014
+Description:	The product shall produce a confirmation.
+Type:		Functional.
+Rationale:	To let the member know they have a reserved place on the course.
+Originator:	Management.
+
 REQ-ID:		REQ015
 Description:	The product shall provide a list of available equipment on a particular date.
 Type:		Functional
 Rationale:	The facilitator can only make reservations for equipment that is available on a particular date.
+Originator:	Karen Black
+
+REQ-ID:		REQ016
+Description:	The product shall record reservations for workshop or course equipment.
+Type:		Functional
+Rationale:	An unambiguous reservation of the equipment ensures its availability in the workshop or course.
 Originator:	Karen Black
 
 REQ-ID:		REQ017
@@ -114,15 +132,6 @@ Type:		Functional
 Rationale:	At present no cohesion with how invoices are received and handled, all seperate systems. No quick way to check workshop co-ordinator or lecturer agreed fees, terms or against scheduled hours for received invoices or knowing if they're settled or not.
 Originator:	Marion Harkin
 
-<<<<<<< HEAD
-=======
-REQ-ID:		REQ024
-Description:	The product should allow for handling of payments of invoices
-Type:		Functional
-Rationale:	At present no automation from invoice received to payments to workshop co-ordinators or lecturers, at present several separate systems and several manual steps. Could be handled as part of the invoicing to make it accessible to privileged staff.
-Originator:	Marion Harkin
-
->>>>>>> dd84789b67b824dd098978002ca50bddc6e94716
 REQ-ID:		REQ026
 Description:	The product should apply members 15% discount for activities automatically
 Type:		Functional
