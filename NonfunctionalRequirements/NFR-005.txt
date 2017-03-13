@@ -8,3 +8,5 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 
 [KK] Based on REQ008. 
 The fit criterion has been set to 3 minutes as it includes searching and selecting a specific workspace, filling in the personal details of a participant and finalizing the booking. Typing skills plays a vital role here but this amount of time may be considered as adequate. The expected success rate has been adjusted to 99% to leave space for exceptional circumstances.
+
+[AS] I agree with the 3 minute time-frame. I also think this may fall under the ‘user interface design’ type as the interface will influence how its users will interact with the system to achieve the 3 minute target when making a reservation. You could also minimise the need for typing free text by having a lookup function for each field required for the reservation.
