@@ -7,3 +7,5 @@ Originator: Thomas Berchtold
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
 [TB] Availability definition jsut for WIMS, does not take into account the planned online access via internet from WORMS.  
+
+[AS] Does ‘normal use’ mean fully functional?
