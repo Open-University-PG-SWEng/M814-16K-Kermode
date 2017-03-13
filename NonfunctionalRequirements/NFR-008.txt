@@ -7,3 +7,5 @@ Originator: Benjamin Hobbs (Y0373855)
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
 [KK] I believe that the phrase "statistically representative range" with a theoretically agreed percentage. There's also a typo in statistically. As for the type (12 Performance) I believe that this NFR falls also under the category "Usability and Humanity Requirements" in the sense that the duration is not really dependent on the performance of a system process but rather on the user's behaviour.
+
+[JT] I feel that an increase of 50% in the time taken to carry out this activity may be a lot. One of the reasons for creating WIMS was in order to save time and streamline their processes - if things now take that much longer, will the product be acceptable?
