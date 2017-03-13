@@ -13,12 +13,6 @@ Rationale:	A payment is required from a customer in order to be booked on a work
 Originator:	Booking agents/receptionists (Sandra/James) overseen by Karen
 
 
-REQ-ID:		REQ002
-Description:	Send notification e-mail to customer.
-Type:
-Rationale:	The customer requires an acknowledgement e-mail upon confirmation of a successful payment and booking.
-Originator:	Booking agents/receptionists (Sandra/James) overseen by Karen
-
 REQ-ID:		REQ003
 Description:	The product shall maintain records of workshops that have been run, including date, time, coordinator, and cost.
 Type:
@@ -84,6 +78,12 @@ Description:	The product shall accept a reservation request.
 Type:		Functional.
 Rationale:	To allow members the choice to attend a course.
 Originator:	Member.
+
+REQ-ID:		REQ014
+Description:	The product shall produce a confirmation.
+Type:		Functional.
+Rationale:	To let the member know they have a reserved place on the course.
+Originator:	Management.
 
 REQ-ID:		REQ015
 Description:	The product shall provide a list of available equipment on a particular date.
