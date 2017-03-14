@@ -2,7 +2,7 @@
 Description: Making a workshop reservation should be an easy and fast process.
 Type: Usability and Humanity
 Rationale: Making Workshop reservations counts among the daily tasks undertaken by the receptionists and saving time is of critical importance and one of the main purposes of this system.
-Fit Criterion: 99% of users shall be able to complete a reservation within 3 minutes.
+Fit Criterion: 99% of users shall be able to complete a reservation within 3 minutes and without receiving any training or familirization with the system.
 Originator: Kleonikos Kyriakis
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
@@ -12,3 +12,5 @@ The fit criterion has been set to 3 minutes as it includes searching and selecti
 [AS] I agree with the 3 minute time-frame. I also think this may fall under the ‘user interface design’ type as the interface will influence how its users will interact with the system to achieve the 3 minute target when making a reservation. You could also minimise the need for typing free text by having a lookup function for each field required for the reservation.
 
 [JT] When you say "99% of users", you are referring to the receptionists, aren't you? In which case, do you expect 99% of them to be able to complete a reservation in 3 minutes the very first time they use the system? Or is that a target after they have been trained or become accustomed to it?
+
+[KK] That's a valid point. The truth is that there's some ambiguity to whether the user should be trained. I have modified therefore the rationale and made it even more specific. Thanks for the feedback. As for the term users I believe it does not need any adjustments. It may well be the receptionists or even the director he wants to carry out such a task on his own.
