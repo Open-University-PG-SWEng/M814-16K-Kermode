@@ -3,3 +3,5 @@ REQ-ID: NFR007Description: The system should be reliable such that relevant, up
 [JT] I know you have said that you specified Justin and Marion because you thought that they would be the only ones that needed it - but if another stakeholder turned out to need it, or if Marion/Justin left before the project was complete, would it not be better to have a more open option? Perhaps the list of stakeholders to whom the report should be sent could be kept in a supporting document?
 
 [AS] Thanks for the suggestions, both are valid points. I’ve updated the fit criterion to address both.
+
+[DK] The only thing that I’d say is in contradiction to BH’s point on “what is a management report”.  In my opinion, this would be a functional requirement rather than part of the fit criterion of a non-functional requirement.  The fit-criterion you had originally is more akin to what I would expect, but I’d keep the change that you have made to remove the recipients specifically - effectively keeping the first sentence of your ammendment.  
