@@ -13,4 +13,4 @@ The fit criterion has been set to 3 minutes as it includes searching and selecti
 
 [JT] When you say "99% of users", you are referring to the receptionists, aren't you? In which case, do you expect 99% of them to be able to complete a reservation in 3 minutes the very first time they use the system? Or is that a target after they have been trained or become accustomed to it?
 
-[KK] That's a valid point. The truth is that there's some ambiguity to whether the user should be trained. I have modified therefore the rationale and made it even more specific. Thanks for the feedback. As for the term users I believe it does not need any adjustments. It may well be the receptionists or even the director he wants to carry out such a task on his own.
+[KK] That's a valid point. The truth is that there's some ambiguity to whether the user should be trained. I have modified therefore the rationale and made it even more specific. Thanks for the feedback. As for the term users I believe it does not need any adjustments. It may well be the receptionists or even the director if he wants to carry out such a task on his own.
