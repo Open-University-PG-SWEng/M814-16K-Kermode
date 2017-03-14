@@ -1,8 +1,8 @@
-﻿REQ-ID: NFR002
+REQ-ID: NFR002
 Description: The system must log that the workshop schedule has been changed for audit purposes
 Type: Security
 Rationale: It must be possible to trace who is changing the schedule of a workshop.  Otherwise, changes cannot be traced back to who modified it - which may not have been the facilitator.
-Fit Criterion: An audit entry is generated for every change to the workshop schedule indicating the following: who made the changed, the previous schedule, and the new schedule
+Fit Criterion: An audit entry is generated for every change to the workshop schedule indicating the following: who made the changes, the previous schedule, and the new schedule
 Originator: David Knowles
 Comments: 
 [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
@@ -15,3 +15,5 @@ of the system? I'm not sure it falls under the remit of 'security' ?
 [DK] According to MRP (page 264-265), audit trails come under the security aspect of non-functional requirements. Also, as it doesn’t alter the functional behaviour of the system, it would be considered non-functional.  There could well be a higher level requirement to maintain an audit trail, but how do you deem from that requirement what is actually going to audit? It provides a testable way of being able to determine that schedule changes are audited.
 
 [DW] A small typo under Fit Criterion: changed = changes. I think security in some cases could both be NFR and FR depending on how it's worded.
+
+[DK] Thanks for the typo spot! Updated.
