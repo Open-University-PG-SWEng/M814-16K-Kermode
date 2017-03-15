@@ -1,0 +1,10 @@
+REQ-ID: NFR010
+Description: A supply order shall be generated quickly.
+Type: Non-Functional - Performance
+Rationale: The supply order needs to be generated quickly in response to a facilitators request to ensure 
+           that orders are sent to the supplier efficiently. 
+Fit Criterion: The supply order shall be generated within 1 minute of the request's input into the product.
+Originator: C. Berry
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+
