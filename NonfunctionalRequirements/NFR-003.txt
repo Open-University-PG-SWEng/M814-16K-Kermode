@@ -14,3 +14,5 @@ guarantee would be when an e-mail was SENT. The Fit Criterion states this, but p
 'E-mails should be sent to attendee's soon after a cancellation...'
 
 [DW] Good point, it is not worded as well as it could be - updated.
+
+[CB] The rationale is logical and the fit criteria is testable, therefore valid requirement.
