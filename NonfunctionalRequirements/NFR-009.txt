@@ -1,4 +1,4 @@
-REQ-ID: NFR009
+﻿REQ-ID: NFR009
 Description: The product shall be available for normal use every day (including week-ends) from 09:00 to 20:00 hours. 
 Type: Non-functional (12, Performance/Availability)
 Rationale: The product must be available during the Walton Sustainability Centre office hours. 
@@ -9,3 +9,5 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [TB] Availability definition jsut for WIMS, does not take into account the planned online access via internet from WORMS.  
 
 [AS] Does ‘normal use’ mean fully functional?
+
+[CB] I would perhaps reconsider the NFR classification, performance relates to response time or resource consumption. 
