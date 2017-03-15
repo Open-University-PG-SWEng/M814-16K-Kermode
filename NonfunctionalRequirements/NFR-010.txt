@@ -7,4 +7,6 @@ Fit Criterion: The supply order shall be generated within 1 minute of the reques
 Originator: C. Berry
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
+[CB] Assumption is that the order will be output in a form that the administrators must then forward to the supplier
+     this could be electronically or manually etc...
 
