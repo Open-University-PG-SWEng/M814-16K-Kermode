@@ -1,7 +1,23 @@
-REQ-ID: NFR007Description: The system should be reliable such that relevant, up-to-date management reports are generated on a monthly basis. Type: Non-Functional - ReliabilityRationale: A reliable management report will have relevant and up-to-date information and will therefore enable a more accurate comparison of current performance against both previous and planned performance and influence future decision-making.Fit Criterion: A management report is automatically generated and shared with a distribution list on the first day of each month. The management report will contain 1) differences in number of members and in number of workshops between current, previous and planned performance, 2) notable workshops that have seen popularity increase or decline over time and 3) financial gains/losses each month compared with that of previous year and of planned performance. The distribution list will be governed by Justin and Marion.Originator: Ashni SedaniComments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.[AS] I believe only Justin and Marion require this information so have not included other stakeholders. I have selected the first of each month for consistency.[BH] Your fit criterion is very good, I don't recall the module specifying the first of the month but it's a relatively reasonable assumption this would suit their needs. My concern would be for the definition of 'management report'. What is one? And how can I verify that it's successfully generated if I don't know what one is/should contain?
+REQ-ID: NFR007
+Description: The system should be reliable such that relevant, up-to-date management reports are generated on a monthly basis. 
+Type: Non-Functional - Reliability
+Rationale: A reliable management report will have relevant and up-to-date information and will therefore enable a more accurate comparison of current performance against both previous and planned performance and influence future decision-making.
+Fit Criterion: A management report is automatically generated and shared with a distribution list on the first day of each month. The management report will contain 1) differences in number of members and in number of workshops between current, previous and planned performance, 2) notable workshops that have seen popularity increase or decline over time and 3) financial gains/losses each month compared with that of previous year and of planned performance. The distribution list will be governed by Justin and Marion.
+Originator: Ashni Sedani
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+[AS] I believe only Justin and Marion require this information so have not included other stakeholders. I have selected the first of each month for consistency.
+
+[BH] Your fit criterion is very good, I don't recall the module specifying the first of the month but it's a relatively reasonable assumption this would suit their needs. My concern would be for the definition of 'management report'. What is one? And how can I verify that it's successfully generated if I don't know what one is/should contain?
 
 [JT] I know you have said that you specified Justin and Marion because you thought that they would be the only ones that needed it - but if another stakeholder turned out to need it, or if Marion/Justin left before the project was complete, would it not be better to have a more open option? Perhaps the list of stakeholders to whom the report should be sent could be kept in a supporting document?
 
+
+
 [AS] Thanks for the suggestions, both are valid points. I’ve updated the fit criterion to address both.
 
+
+
 [DK] The only thing that I’d say is in contradiction to BH’s point on “what is a management report”.  In my opinion, this would be a functional requirement rather than part of the fit criterion of a non-functional requirement.  The fit-criterion you had originally is more akin to what I would expect, but I’d keep the change that you have made to remove the recipients specifically - effectively keeping the first sentence of your ammendment.  
+
+[GG] I agree with DK that automatically producing a monthly management report is a functional requirement. REQ005 actually asks for daily and weekly reports. Some of these, particularly the daily reports, might be produced on demand rather than being generated automatically.
