@@ -10,3 +10,4 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [CB] Assumption is that the order will be output in a form that the administrators must then forward to the supplier
      this could be electronically or manually etc...
 
+[AG] On page 288 of MRP a more detailed fit criterion is suggest for a similar NFR. I suggest that the specification can be improved by setting a target threshold for the majority of users (say, 20 seconds for 90% of requests) and then an upper bound for exceptional cases (say 1 minute at the maximum).
