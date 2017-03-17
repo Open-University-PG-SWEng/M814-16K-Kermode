@@ -1,12 +1,12 @@
 ﻿REQ-ID: NFR009
-Description: The product shall be available for normal use every day (including week-ends) from 09:00 to 20:00 hours. 
+Description: The product shall be fully functional every day (including week-ends) from 09:00 to 20:00 hours. 
 Type: Non-functional (12, Performance/Availability)
 Rationale: The product must be available during the Walton Sustainability Centre office hours. 
 Fit Criterion: The product shall provide an availability of 99 % during the office hours and thus not exceed an unscheduled downtime of 7.2 hours per month. 
 Originator: Thomas Berchtold
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
-[TB] Availability definition jsut for WIMS, does not take into account the planned online access via internet from WORMS.  
+[TB] Availability definition just for WIMS, does not take into account the planned online access via internet from WORMS.  
 
 [AS] Does ‘normal use’ mean fully functional?
 
