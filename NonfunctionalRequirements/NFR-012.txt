@@ -1,0 +1,10 @@
+REQ-ID: 	012
+Description: 	It should be easy for members to reserve a place on a course.
+Type:		Useability.
+Rationale:	This is a new product and we need members to use this way of booking courses.
+Fit Criterion:	Ninety percent of members should be able to complete the online reservation on 
+		their first attempt.
+Originator:	Member.
+Comments: 	[M814-MJC] NFR attached to FR #13
+
+
