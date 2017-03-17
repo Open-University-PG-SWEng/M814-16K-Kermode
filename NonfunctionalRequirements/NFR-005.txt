@@ -2,7 +2,7 @@
 Description: Making a workshop reservation should be an easy and fast process.
 Type: Usability and Humanity
 Rationale: Making Workshop reservations counts among the daily tasks undertaken by the receptionists and saving time is of critical importance and one of the main purposes of this system.
-Fit Criterion: 99% of users shall be able to complete a reservation within 3 minutes and without receiving any training or familirization with the system.
+Fit Criterion: 99% of users shall be able to complete a reservation within 3 minutes and without receiving any training or being already familiar with the system.
 Originator: Kleonikos Kyriakis
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 

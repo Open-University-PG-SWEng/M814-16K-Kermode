@@ -17,3 +17,5 @@ of the system? I'm not sure it falls under the remit of 'security' ?
 [DW] A small typo under Fit Criterion: changed = changes. I think security in some cases could both be NFR and FR depending on how it's worded.
 
 [DK] Thanks for the typo spot! Updated.
+
+[GG] I agree that this requirement may be difficult to classify. It is certainly concerned with security, but as it generates an audit entry for every schedule change, it does alter the functional behaviour of the system, although this is not visible to the user who made the schedule change.

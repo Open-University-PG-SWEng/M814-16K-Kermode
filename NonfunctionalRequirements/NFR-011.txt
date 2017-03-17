@@ -1,0 +1,11 @@
+REQ-ID:		NFR011
+Description:	Office staff shall find it easy to use the product for accessing EVS volunteers' records.
+Type:		11 (Usability)
+Rationale:	As EVS volunteers come and go, staff should be able to locate the records without knowing the names of the volunteers.
+Fit Criterion:	A member of staff should be able to access the records of all EVS volunteers or of volunteers selected from a list provided by the product within 15 minutes of encountering the product for the first time and subsequently within 3 minutes.
+Originator:	George Gibson
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+[GG] Based on REQ009.
+
+
