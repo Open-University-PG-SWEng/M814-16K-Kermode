@@ -1,8 +1,8 @@
 REQ-ID: NFR004
 Description: The product shall provide authentication and authorization mechanisms, implementing ACLs for user role management.
-Type: Non-functional - Security
+Type: 15 - Non-functional - Security
 Rationale: User roles need to be enforced by an authorization mechanism because they potentially provide access to sensitive data (financial, personal) and membership benefits are tied to user roles.
-Fit Criterion: Users can only access functions and services assigned to their role.
+Fit Criterion: Users can only access functions and services assigned to their role, in accordance with accepted security standards.
 Originator: Andreea Grecu
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
@@ -11,3 +11,11 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [BH] I am very impressed by the succinctness of this fit criterion. Though I really like it I cannot decide if it is brilliant or really bad at being specific. It's highly generic in terms of covering many users, functions and services and the assignment of roles/permissions between them. Perhaps it'd be good to clarify something like this: (Assumption: The directors will define the roles and access allowed to each role member and have written a matrix to denote the assignment permissions to these roles) Due to their role, a user shall only be able to access the functions and services in the system that have been marked as allowed for someone with their role in the matrix provided by the directors. - this is horribly more verbose but I think gives a clearer idea of how to test the NFR, and to be honest I like the simplicity and clarity of your criterion much more than I like my answer, but I think there may be a middle ground. PS I think the type should be a number rather than the text (based on the examples in MRP p.368-9) PPS Very good rationale
 
 [CB] The rationale behind the function is sound, and the fit criterion makes the requirement testable. It could be argued that the ability to access a function or service based on user role is a FUNCTIONAL requirement; however, this NFR addresses the security aspects, i.e. which user roles should NOT have access to a particular function or service, and I think that it is valid as it stands.
+
+[AG] 
+@[BH] While I agree that the fit criterion is succinct, I think there is more danger in extending a security NFR by making assumptions or providing solutions, than by leaving it as it stands, to be implemented by a security expert. You make a good point suggesting making the fit criterion measurable against something concrete, such as an accepted security standard (e.g. INCITS 359-2012).
+
+initial Fit Criterion: Users can only access functions and services assigned to their role.
+amended Fit Criterion: Users can only access functions and services assigned to their role, in accordance with accepted security standards.
+amended Type - added 15
+[/AG]
