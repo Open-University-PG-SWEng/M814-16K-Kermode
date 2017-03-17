@@ -7,4 +7,6 @@ Fit Criterion:	Ninety percent of members should be able to complete the online r
 Originator:	Member.
 Comments: 	[M814-MJC] NFR attached to FR #13
 
+[AG] I think the requirement would become clearer if the fit criterion would include testing for more than just the ability to complete the reservation. Stronger metrics would include time to completion and number of clicks to completion. The fit criterion would probably be realistically tested on a representative subset of users, as opposed to the more generic members in the original criteria.
+
 
