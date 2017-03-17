@@ -12,4 +12,4 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 
 [AG] On page 288 of MRP a more detailed fit criterion is suggest for a similar NFR. I suggest that the specification can be improved by setting a target threshold for the majority of users (say, 20 seconds for 90% of requests) and then an upper bound for exceptional cases (say 1 minute at the maximum).
 
-[TB] I think this is a reasonable requirement but I see a possible use case where it does not make sense. It could be the case the different orders are collected first and only one single consolidated order is sent per supplier and per day to save shipping costs or to receive better conditions. 
+[TB] I think this is a reasonable requirement but I see a possible use case where it does not make sense. It could be that the different orders are collected first and only one single consolidated order is sent per supplier and per day to save shipping costs or to receive better conditions. 
