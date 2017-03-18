@@ -1,0 +1,10 @@
+REQ-ID:			NFR-013
+Description:	The system member account details indicate if Direct Debit payments are active or not.
+Type:			Usability and Humanity
+Rationale:		Discounts (5%) can be applied for members with active direct debit.
+Fit Criterion:	A member of staff can see that the direct debit payment method is active; however cannot change this indicator. Only staff from the accounts department are authorised to carry out this edit/ change.
+Originator:		Paul Greatrex
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+[PG] Re: FR# REQ027	- The product must support an indication that the member is paying by direct debit.
+
