@@ -11,3 +11,5 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [AS] Does ‘normal use’ mean fully functional?
 
 [CB] I would perhaps reconsider the NFR classification, performance relates to response time or resource consumption. 
+
+[PG] Why do we want to place or imply any constraint on the hours of the system, if there was an issue we could not guarantee this. If for maintenance purposes (as per 99%) then that should be noted otherwise why would it not be possible to be available 24-7, ensuring that any maintenance is carried out between 8pm and 9am for instance.
