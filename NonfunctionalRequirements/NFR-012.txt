@@ -12,3 +12,5 @@ Comments: 	[M814-MJC] NFR attached to FR #13
 [TB] I think that the rational should provide more in-depth information to understand the requirement. Why do we want the members to make online reservations, what type of member with what skills do we want to attract? This would also help to derive a more precise fit criterion. 
 
 [DW] I agree that both rationale and fit criterion could be added to. It would definitely be good to expand on the fit criterion a little.
+
+[PG] The fit criterion references a percentage that is dependant on probability or reliability, however a reservation is based on availablity (the reliability of the system is implied in that it should be reliable and so no percentage required). First attempt is an expectation unless availability of either the booking or system access was an issue. In short it is the form or controls that govern simplicity and not reliability or percentage of users(unless this refers to loading of the system/ network/ connections which is a system level).
