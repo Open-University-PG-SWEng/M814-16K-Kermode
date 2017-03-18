@@ -11,3 +11,4 @@ Comments: 	[M814-MJC] NFR attached to FR #13
 
 [TB] I think that the rational should provide more in-depth information to understand the requirement. Why do we want the members to make online reservations, what type of member with what skills do we want to attract? This would also help to derive a more precise fit criterion. 
 
+[DW] I agree that both rationale and fit criterion could be added to. It would definitely be good to expand on the fit criterion a little.
