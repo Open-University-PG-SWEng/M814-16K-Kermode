@@ -2,7 +2,7 @@ REQ-ID:		NFR011
 Description:	Office staff shall find it easy to use the product for accessing EVS volunteers' records.
 Type:		11 (Usability)
 Rationale:	As EVS volunteers come and go, staff should be able to locate the records without knowing the names of the volunteers.
-Fit Criterion:	A member of staff should be able to access the records of all EVS volunteers or of volunteers selected from a list provided by the product within 15 minutes of encountering the product for the first time and subsequently within 3 minutes.
+Fit Criterion:	A member of staff should be able to access the records of all EVS volunteers or of volunteers selected from a list provided by the product. For the record of a single volunteer, they should be able to access it within 3 minutes of encountering the product for the first time and subsequently within 30 seconds.
 Originator:	George Gibson
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
@@ -13,3 +13,5 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [TB] I agree with the comment of [AG]. Additionally, I think that it is a big difference if I have to access the records of all EVS volunteers or only the records of a sample. To me this implies that the system and the user must become faster the more volunteers exist only to keep the same performance level. Thus, I would define the fit criterion based on one specific sample size.  
 
 [GG] I agree that the numbers are probably too high. I would normally expect to consult stakeholders on this, but as there were none available at the time, I just entered some rough figures. The second point about the difference between one volunteer and all volunteers is also valid and needs looking into.
+
+[GG] I've updated the fit criterion to reduce the times from 15 minutes and 3 minutes, to 3 minutes and 30 seconds respectively and applied it to the record for a single volunteer.
